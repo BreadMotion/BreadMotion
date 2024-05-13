@@ -26,7 +26,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/144px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noopener">
   <img src="https://icons-for-free.com/iff/png/256/csharp+plain-1324760527445397616.png" alt="C#" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noopener">
+<a href="" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="C#" width="40" height="40"/></a>
-                  
+<a href="" target="_blank" rel="noopener">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg" alt="C#" width="40" height="40"/></a>                  
 &nbsp;
