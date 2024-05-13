@@ -29,5 +29,5 @@
 <a href="" target="_blank" rel="noopener">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="C#" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noopener">
-  <img src"https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/></a>                  
+  <img src"[https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust](https://www.svgrepo.com/show/376347/rust.svg)" width="40" height="40"/></a>                  
 &nbsp;
