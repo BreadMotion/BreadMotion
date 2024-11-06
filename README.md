@@ -1,11 +1,15 @@
 <h1 align="center">パン君</h1>
+<h3 align="center">とある会社のエンジニア</h5>
 &nbsp;
-<h5 align="center">とある会社のエンジニア</h5>
+<h3 align="center">開発,販売ゲーム</h5>
+<p align="center">
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?portfolio_0001.md">霊迷の湯</a><br/>
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?portfolio_0001.md">クマの逆転プロ野球</a><br/>
+</p>
 
-<h3 align="left">使用言語　ツール:</h3>
 &nbsp;
-
-<p align="left">
+<h3 align="center">使用言語　ツール</h3>
+<p align="center">
 <a href="https://www.java.com" target="_blank" rel="noopener"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"> 
