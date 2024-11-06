@@ -1,4 +1,4 @@
-<h1 align="center">BreadMotion</h1>
+<h1 align="center">パン君</h1>
 &nbsp;
 <h5 align="center">とある会社のエンジニア</h5>
 
