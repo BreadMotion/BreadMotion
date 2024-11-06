@@ -2,7 +2,7 @@
 &nbsp;
 <h5 align="center">とある会社のエンジニア</h5>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">使用言語　ツール:</h3>
 &nbsp;
 
 <p align="left">
