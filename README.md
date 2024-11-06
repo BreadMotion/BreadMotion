@@ -3,8 +3,8 @@
 &nbsp;
 <h3 align="center">開発,販売ゲーム</h5>
 <p align="center">
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?portfolio_0001.md">霊迷の湯</a><br/>
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?portfolio_0001.md">クマの逆転プロ野球</a><br/>
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">霊迷の湯</a><br/>
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">クマの逆転プロ野球</a><br/>
 </p>
 
 &nbsp;
