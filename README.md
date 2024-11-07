@@ -4,6 +4,14 @@
 🌱 I’m currently learning Unity, UE5, Make Game Editor, Make Full Scratch Game<br/>
 📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
 👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
+
+[![Gmail Badge](https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335)](mailto:yamazakimotionpg@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/)](https://www.github.com/BreadMotion/) 
+[![Twitter Badge](https://img.shields.io/badge/-BreadMotion-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/BREAD200011/)](https://twitter.com/BREAD200011) 
+[![HomePage Badge](https://img.shields.io/badge/HomePage-web-blue?style=flat&link=https://breadmotion/github.io/WebSite/index.html)](https://breadmotion/github.io/WebSite/index.html) 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-web-blue?style=flat&link=https://breadmotion/github.io/WebSite/Portfolio/portfoliohome.html)](https://breadmotion/github.io/WebSite/Portfolio/portfoliohome.html) 
+[![Blog Badge](https://img.shields.io/badge/Blog-web-blue?style=flat&link=https://breadmotion/github.io/WebSite/Blog/bloghome.html)](https://breadmotion/github.io/WebSite/Blog/bloghome.html) 
+
 &nbsp;
 
 # 🚀 Activities
