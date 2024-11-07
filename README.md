@@ -54,8 +54,11 @@
 &nbsp;
 
 # 📊Stats
-
 <p align="left"> 
-  <img alt="github stats" height="175px" src="https://readme-pi-lemon.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
-  <img alt="github stats" height="175px" src="https://readme-pi-lemon.vercel.app/api/top-langs/?username=BreadMotion&layout=compact&cache_seconds=1800&theme=onedark&hide=ShaderLab" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadMotion&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
 </p>
+<p align="left">
+    <img alt="github stats" height="150px" src="https://github-contribution-stats.vercel.app/api/?username=BreadMotion">
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
