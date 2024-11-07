@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Blog-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Blog/bloghome.html"/></a>
 </p>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335" 
-      href="mailto:yamazakimotionpg@gmail.com"/>
-  <img src="https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/" 
-      href="https://www.github.com/BreadMotion/"/>
-  <img src="https://img.shields.io/badge/-BreadMotion-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/BREAD200011/" 
-      href="https://twitter.com/BREAD200011"/>
+<p align="left">
+  <a href="mailto:yamazakimotionpg@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335" /></a>
+  <a href="https://github.com/BreadMotion/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/" /></a>
+  <a href="https://twitter.com/BREAD200011/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-BreadMotion-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/BREAD200011/" /> </a>
 </p>
 &nbsp;
 
