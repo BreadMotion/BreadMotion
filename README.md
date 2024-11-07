@@ -1,10 +1,9 @@
-# 👋 Hi! I'm BreadMotion
+# 👋 Hi! I'm Bread
 
 🚀 My homepage is [here](https://breadmotion.github.io/WebSite/). <br/>
 🌱 I’m currently learning Unity, UE5, Make Game Editor, Make Full Scratch Game<br/>
 📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
 👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
-👨‍💻 私のプロジェクトをもっと見たい方は[Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)を参照ください。<br/>
 
 <p align="left"> 
   <a href="https://breadmotion.github.io/WebSite/" target="_blank" rel="noopener">
@@ -38,7 +37,7 @@
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">disc page</a><br/>
 &nbsp;
 
-## ホームページ
+## Home Page
 
 <a href="https://breadmotion/github.io/WebSite/">disc page</a><br/>
 &nbsp;
