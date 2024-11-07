@@ -7,7 +7,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335)](mailto:yamazakimotionpg@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/)](https://www.github.com/BreadMotion/) 
-[![Twitter Badge](https://img.shields.io/badge/-BreadMotion-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/BREAD200011/)](https://twitter.com/BREAD200011) 
+[![Twitter Badge](https://img.shields.io/badge/-BreadMotion-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/BREAD200011/)](https://twitter.com/BREAD200011) 
 [![HomePage Badge](https://img.shields.io/badge/HomePage-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/)](https://breadmotion.github.io/WebSite/) 
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html)](https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html) 
 [![Blog Badge](https://img.shields.io/badge/Blog-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Blog/bloghome.html)](https://breadmotion.github.io/WebSite/Blog/bloghome.html) 
