@@ -40,7 +40,10 @@ The control method is the same as that of a typical FPS.<br/>
 This game's store page is [here](https://store.steampowered.com/app/2806350/_/).<br/>
 Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md).<br/>
 
-<img src="https://www.gaming-city.com/images/cms/0055/5517/001.jpg?t=1710230611"/>
+<img style="
+  width:80%; 
+  height:50%;"
+  src="https://www.gaming-city.com/images/cms/0055/5517/001.jpg?t=1710230611"/>
 
 &nbsp;
 
@@ -58,8 +61,8 @@ This game is currently under development.<br/>
 Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md)<br/>
 
 <img style="
-  width:480px; 
-  height:230px;" 
+  width:80%; 
+  height:50%;" 
   src="https://github.com/user-attachments/assets/f0314371-190f-43a0-981b-a94f501a2adc"/>
 
 &nbsp;
