@@ -33,8 +33,11 @@
 &nbsp;
 
 ## クマの逆転プロ野球
-
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">disc page</a><br/>
+This game is a casual game for Android and iPhone devices.<br/>
+This is a game in which a bear changes the past in order to turn a losing baseball game into a winning one.<br/>
+All the player has to do is select and choose.<br/>
+This game is currently under development.<br/>
+Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md)<br/>
 &nbsp;
 
 ## Home Page
