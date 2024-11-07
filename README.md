@@ -1,9 +1,12 @@
-<h1 align="center">パン君</h1>
-<h3 align="center">とある会社のエンジニア</h5>
+<h1 align="left">パン君</h1>
+<h3 align="left">とある会社のエンジニア</h5>
+<p align="left"><a href="https://breadmotion.github.io/WebSite/">ホームページ</a></p>
 &nbsp;
-<h3 align="center">開発,販売ゲーム</h5>
-<p align="center">
+
+<h3 align="left">開発,販売ゲーム</h5>
+<p align="left">
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">霊迷の湯</a><br/>
+  
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">クマの逆転プロ野球</a><br/>
 </p>
 
