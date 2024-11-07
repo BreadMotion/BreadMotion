@@ -32,10 +32,16 @@
     src="https://github.com/user-attachments/assets/a6de347a-feb0-42cf-b847-73ec84cd8070"/></h2>
 </p>
 
-<a href="https://store.steampowered.com/app/2806350/_/">store page</a><br/>
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">disc page</a><br/>
+This game is a mistake-finding horror game.<br/>
+In the industry, it is said to be [Exit 8](https://store.steampowered.com/app/2653790/8/) like.<br/>
+You can experience a day of part-time work at a fictional Japanese inn.<br/>
+The control method is the same as that of a typical FPS.<br/>
+<br/>
+This game's store page is [here](https://store.steampowered.com/app/2806350/_/).<br/>
+Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md).<br/>
 
 <img src="https://www.gaming-city.com/images/cms/0055/5517/001.jpg?t=1710230611"/>
+
 &nbsp;
 
 <p align="left">
@@ -48,6 +54,7 @@ This game is a casual game for Android and iPhone devices.<br/>
 This is a game in which a bear changes the past in order to turn a losing baseball game into a winning one.<br/>
 All the player has to do is select and choose.<br/>
 This game is currently under development.<br/>
+<br/>
 Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md)<br/>
 
 <img style="
