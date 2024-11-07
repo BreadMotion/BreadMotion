@@ -26,13 +26,24 @@
 
 # 🚀 Activities
 
-## 霊迷の湯
+<p align="left">
+  <h2>霊迷の湯 
+  <img style="wodth:30px; height:30px;"
+    src="https://github.com/user-attachments/assets/a6de347a-feb0-42cf-b847-73ec84cd8070"/></h2>
+</p>
 
 <a href="https://store.steampowered.com/app/2806350/_/">store page</a><br/>
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">disc page</a><br/>
+
+<img src="https://www.gaming-city.com/images/cms/0055/5517/001.jpg?t=1710230611"/>
 &nbsp;
 
-## クマの逆転プロ野球
+<p align="left">
+<h2> クマの逆転プロ野球
+  <img style="width:30px; height:30px;"
+    src="https://github.com/user-attachments/assets/1ea1819a-3746-46df-8d15-a41cccab8844"/></h2>
+</p>
+
 This game is a casual game for Android and iPhone devices.<br/>
 This is a game in which a bear changes the past in order to turn a losing baseball game into a winning one.<br/>
 All the player has to do is select and choose.<br/>
