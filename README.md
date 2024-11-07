@@ -4,6 +4,7 @@
 🌱 I’m currently learning Unity, UE5 <br/>
 📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
 👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
+&nbsp;
 
 # 🚀 Activities
 
@@ -11,14 +12,17 @@
 
 <a href="https://store.steampowered.com/app/2806350/_/">store page</a><br/>
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">disc page</a><br/>
+&nbsp;
 
 ## クマの逆転プロ野球
 
 <a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">disc page</a><br/>
+&nbsp;
 
 ## ホームページ
 
 <a href="https://breadmotion/github.io/WebSite/">disc page</a><br/>
+&nbsp;
 
 # 🛠️ Languages and Tools
 
