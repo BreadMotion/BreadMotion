@@ -59,6 +59,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
 </p>
 <p align="left">
-    <img alt="github stats" height="150px" src="https://github-contribution-stats.vercel.app/api/?username=BreadMotion">
+    <img alt="github stats" height="300px" src="https://github-contribution-stats.vercel.app/api/?username=BreadMotion">
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
