@@ -1,9 +1,9 @@
 # 👋 Hi! I'm BreadMotion
 
-🚀 My homepage is [here](https://breadmotion.github.io/WebSite/).
-🌱 I’m currently learning Unity, UE5
-📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)
-👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)
+🚀 My homepage is [here](https://breadmotion.github.io/WebSite/). <br/>
+🌱 I’m currently learning Unity, UE5 <br/>
+📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
+👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
 
 # 🚀 Activities
 
@@ -48,3 +48,9 @@
 <a href="" target="_blank" rel="noopener">
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" alt="Rust" width="40" height="40"/></a>                  
 &nbsp;
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreadMotion&count_private=true&count_private=true&show_icons=true)](https://github.com/BreadMotion/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadMotion)](https://github.com/BreadMotion/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreadMotion&layout=compact)](https://github.com/BreadMotion/github-readme-stats)
