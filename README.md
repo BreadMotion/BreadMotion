@@ -101,6 +101,15 @@ Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.ht
   <a href="" target="_blank" rel="noopener">
     <img src = "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_glsl_icon_130577.png" alt="hlsl" width="10%" height="10%"/></a>
 </p>
+
+<p align="left">
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener">
+    <img src="https://img.icons8.com/color/512/git.png" alt="Unity" width="10%" height="10%"/></a>
+  <a href="" target="_blank" rel="noopener">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/3296947443067677311/A3208109CE9E0274B99DBEFDAF9CB16CC14C8E4E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Unity" width="10%" height="10%"/></a>
+   <a href="" target="_blank" rel="noopener">
+    <img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2019/03/OdTBLhQs_400x400.png" alt="Unity" width="10%" height="10%"/></a>
+</p>
 &nbsp;
 
 # 📊Stats
