@@ -5,13 +5,23 @@
 📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
 👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
 
-[![Gmail Badge](https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335)](mailto:yamazakimotionpg@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/)](https://www.github.com/BreadMotion/) 
-[![Twitter Badge](https://img.shields.io/badge/-BreadMotion-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/BREAD200011/)](https://twitter.com/BREAD200011) 
-[![HomePage Badge](https://img.shields.io/badge/HomePage-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/)](https://breadmotion.github.io/WebSite/) 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html)](https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html) 
-[![Blog Badge](https://img.shields.io/badge/Blog-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Blog/bloghome.html)](https://breadmotion.github.io/WebSite/Blog/bloghome.html) 
+<p align="left"> 
+  <a href="https://breadmotion.github.io/WebSite/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/HomePage-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/"/></a>
+  <a href="https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Portfolio/portfoliohome.html"/></a>
+  <a href="https://breadmotion.github.io/WebSite/Blog/bloghome.html" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Blog-web-blue?style=flat&link=https://breadmotion.github.io/WebSite/Blog/bloghome.html"/></a>
+</p>
 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/yamazakimotionpg%40gmail.com-white?style=flat&logo=gmail&labelColor=white&color=%23EA4335" 
+      href="mailto:yamazakimotionpg@gmail.com"/>
+  <img src="https://img.shields.io/badge/-BreadMotion-grey?style=flat&logo=github&logoColor=white&link=https://github.com/BreadMotion/" 
+      href="https://www.github.com/BreadMotion/"/>
+  <img src="https://img.shields.io/badge/-BreadMotion-black?style=flat&logo=x&logoColor=white&link=https://twitter.com/BREAD200011/" 
+      href="https://twitter.com/BREAD200011"/>
+</p>
 &nbsp;
 
 # 🚀 Activities
@@ -65,7 +75,7 @@
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadMotion&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
-    <img alt="github stats" height="300px" src="https://github-contribution-stats.vercel.app/api/?username=BreadMotion">
+  <img alt="github stats" height="300px" src="https://github-contribution-stats.vercel.app/api/?username=BreadMotion">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
