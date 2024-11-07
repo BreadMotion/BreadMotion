@@ -1,17 +1,27 @@
-<h1 align="left">パン君</h1>
-<h3 align="left">とある会社のエンジニア</h5>
-<p align="left"><a href="https://breadmotion.github.io/WebSite/">ホームページ</a></p>
-&nbsp;
+# 👋 Hi! I'm BreadMotion
 
-<h3 align="left">開発,販売ゲーム</h5>
-<p align="left">
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">霊迷の湯</a><br/>
-  
-<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">クマの逆転プロ野球</a><br/>
-</p>
+🚀 My homepage is [here](https://breadmotion.github.io/WebSite/).
+🌱 I’m currently learning Unity, UE5
+📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)
+👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)
 
-&nbsp;
-<h3 align="center">使用言語　ツール</h3>
+# 🚀 Activities
+
+## 霊迷の湯
+
+<a href="https://store.steampowered.com/app/2806350/_/">store page</a><br/>
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0001.md">disc page</a><br/>
+
+## クマの逆転プロ野球
+
+<a href="https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md">disc page</a><br/>
+
+## ホームページ
+
+<a href="https://breadmotion/github.io/WebSite/">disc page</a><br/>
+
+# 🛠️ Languages and Tools
+
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noopener"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
