@@ -56,15 +56,15 @@
 # 📊Stats
 
 <p align="left"> 
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadMotion&layout=compact&cache_seconds=1800&theme=onedark&hide=ShaderLab" />
+  <img alt="github stats" height="175px" src="https://readme-giejs7fya-breadmotions-projects.vercel.app/api?username=BreadMotion&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="175px" src="https://readme-giejs7fya-breadmotions-projects.vercel.app/api/top-langs/?username=BreadMotion&layout=compact&cache_seconds=1800&theme=onedark&hide=ShaderLab" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://readme-giejs7fya-breadmotions-projects.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BreadMotion&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BreadMotion&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BreadMotion&theme=nord_dark)
+![](https://readme-giejs7fya-breadmotions-projects.vercel.app/api/cards/profile-details?username=BreadMotion&theme=nord_dark)
+![](https://readme-giejs7fya-breadmotions-projects.vercel.app/api/cards/repos-per-language?username=BreadMotion&theme=nord_dark)
+![](https://readme-giejs7fya-breadmotions-projects.vercel.app/api/cards/most-commit-language?username=BreadMotion&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BreadMotion&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BreadMotion&theme=nord_dark)
+![](https://readme-giejs7fya-breadmotions-projects.vercel.app/api/cards/stats?username=BreadMotion&theme=nord_dark)
+![](https://readme-giejs7fya-breadmotions-projects.vercel.app/api/cards/productive-time?username=BreadMotion&theme=nord_dark)
