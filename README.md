@@ -66,11 +66,6 @@ Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.ht
 
 &nbsp;
 
-## Home Page
-
-<a href="https://breadmotion/github.io/WebSite/">disc page</a><br/>
-&nbsp;
-
 # 🛠️ Languages and Tools
 
 <p align="left">
