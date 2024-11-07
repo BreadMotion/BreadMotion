@@ -71,7 +71,7 @@ Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.ht
 
 # 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"> 
@@ -94,7 +94,7 @@ Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.ht
     <img src="https://icons-for-free.com/iff/png/256/csharp+plain-1324760527445397616.png" alt="C#" width="40" height="40"/></a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="" target="_blank" rel="noopener">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="C#" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noopener">
@@ -113,4 +113,4 @@ Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.ht
 [![](https://raw.githubusercontent.com/BreadMotion/BreadMotion/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BreadMotion/BreadMotion/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/BreadMotion/BreadMotion/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BreadMotion&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
