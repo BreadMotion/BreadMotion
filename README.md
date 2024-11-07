@@ -38,6 +38,12 @@ This is a game in which a bear changes the past in order to turn a losing baseba
 All the player has to do is select and choose.<br/>
 This game is currently under development.<br/>
 Disc page is [here](https://breadmotion.github.io/WebSite/Portfolio/portfolio.html?pageid=portfolio_0002.md)<br/>
+
+<img style="
+  width:620px; 
+  height:280px;" 
+  src="https://github.com/user-attachments/assets/f0314371-190f-43a0-981b-a94f501a2adc"/>
+
 &nbsp;
 
 ## Home Page
