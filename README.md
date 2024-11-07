@@ -4,6 +4,7 @@
 🌱 I’m currently learning Unity, UE5, Make Game Editor, Make Full Scratch Game<br/>
 📫 How to reach me: yamazakimotionpg@gmail.com or [@BREAD200011](https://twitter.com/BREAD200011)<br/>
 👨‍💻 Read more about my projects at [Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)<br/>
+👨‍💻 私のプロジェクトをもっと見たい方は[Activities.md](https://github.com/sakastudio/sakastudio/blob/main/Activities.md)を参照ください。<br/>
 
 <p align="left"> 
   <a href="https://breadmotion.github.io/WebSite/" target="_blank" rel="noopener">
